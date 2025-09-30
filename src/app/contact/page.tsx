@@ -5,11 +5,11 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold text-center text-pink-600 mb-6">Book Your Dream Event</h1>
       <p className="text-center text-gray-600 mb-8">Tell us about your event and we will get back to you with a quote!</p>
       
-      <form className="space-y-4 bg-white p-8 rounded-xl shadow-2xl border border-pink-200">
-        <input type="text" placeholder="Your Name" className="w-full p-3 border border-gray-300 rounded focus:ring-pink-500 focus:border-pink-500"/>
-        <input type="email" placeholder="Your Email" className="w-full p-3 border border-gray-300 rounded focus:ring-pink-500 focus:border-pink-500"/>
-        <input type="tel" placeholder="Phone Number" className="w-full p-3 border border-gray-300 rounded focus:ring-pink-500 focus:border-pink-500"/>
-        <select className="w-full p-3 border border-gray-300 rounded focus:ring-pink-500 focus:border-pink-500">
+      <form className="space-y-4 bg-white p-8 rounded-xl shadow-2xl border border-pink-400">
+        <input type="text" placeholder="Your Name" className="w-full p-3 border border-gray-1000 rounded focus:placeholder-gray-600 **bg-white**"/>
+        <input type="email" placeholder="Your Email" className="w-full p-3 border border-gray-1000 rounded focus:placeholder-gray-600 **bg-white**"/>
+        <input type="tel" placeholder="Phone Number" className="w-full p-3 border border-gray-1000 rounded focus:placeholder-gray-600 **bg-white**"/>
+        <select className="w-full p-3 border border-gray-300 rounded focus:ring-pink-500 focus:border-pink-800">
             <option>Birthday Party</option>
             <option>Baby Shower</option>
             <option>Custom Event</option>

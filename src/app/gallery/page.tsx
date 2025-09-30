@@ -9,7 +9,7 @@ const galleryPhotos = [
   { id: 2, src: '/gallery images/bday2.jpg', alt: 'Custom Theme Party Setup' },
   { id: 3, src: '/gallery images/bday3.jpg', alt: 'Elegant Baby Shower Decor' },
   { id: 4, src: '/gallery images/bday4.jpg', alt: 'Kids Party Balloon Arch' },
-  { id: 5, src: '/gallery images/bday5.jpg', alt: 'anniversary celebration'},
+  { id: 5, src: '/gallery images/bday5.jpg', alt: 'anniversary'},
   // ... jitni photos hain, utni entries aur daalna
 ];
 
