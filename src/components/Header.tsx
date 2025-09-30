@@ -15,7 +15,7 @@ export default function Header() {
         {/* Links */}
         <div className="space-x-6">
           <Link href="/gallery" className="text-gray-600 hover:text-pink-600 font-medium text-lg transition duration-200">
-            Gallery
+            gallery
           </Link>
           <Link href="/services" className="text-gray-600 hover:text-pink-600 font-medium text-lg transition duration-200">
             Services
