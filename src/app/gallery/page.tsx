@@ -5,10 +5,11 @@ import Image from 'next/image'; // <-- Image component ko import kiya
 // Yahaan tumhari photos ki list banegi. Filenames check karna!
 const galleryPhotos = [
   // Tumhari files ke naam yahaan daalo:
-  { id: 1, src: '/gallery-images/bday1.jpg', alt: 'Blue Themed Birthday Decor' },
-  { id: 2, src: '/gallery-images/bday2.jpg', alt: 'Custom Theme Party Setup' },
-  { id: 3, src: '/gallery-images/bday3.jpg', alt: 'Elegant Baby Shower Decor' },
-  { id: 4, src: '/gallery-images/bday4.jpg', alt: 'Kids Party Balloon Arch' },
+  { id: 1, src: '/gallery images/bday1.jpg', alt: 'Blue Themed Birthday Decor' },
+  { id: 2, src: '/gallery images/bday2.jpg', alt: 'Custom Theme Party Setup' },
+  { id: 3, src: '/gallery images/bday3.jpg', alt: 'Elegant Baby Shower Decor' },
+  { id: 4, src: '/gallery images/bday4.jpg', alt: 'Kids Party Balloon Arch' },
+  { id: 5, src: '/gallery images/bday5.jpg', alt: 'anniversary celebration'},
   // ... jitni photos hain, utni entries aur daalna
 ];
 
